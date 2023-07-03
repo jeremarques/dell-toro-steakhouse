@@ -8,7 +8,7 @@ Visit the website at: https://jeremarques.github.io/dell-toro-steakhouse/
 ## Project overview
 <div>
   <img align="left" width="50%" src="https://github.com/jeremarques/images-galery/blob/main/jeremarques.github.io_dell-toro-steakhouse_%20(1).png" alt='Project image'>
-  <img margin-left="20rem" width="23.8%" src="https://github.com/jeremarques/images-galery/blob/main/jeremarques.github.io_dell-toro-steakhouse_.png" alt='Project image'>
+  <img margin-left="20rem" width="23.8%" src="https://github.com/jeremarques/dell-toro-steakhouse/blob/main/assets/readme-files/jeremarques.github.io_dell-toro-steakhouse_(iPhone%2012%20Pro).png" alt='Project image'>
 </div>
 <br>
 <br>
